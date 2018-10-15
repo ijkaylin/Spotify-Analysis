@@ -35,7 +35,7 @@ source('../scripts/global.R')
 ### Team
 - **Manksh Gupta** (mg3835): exporatory data analysis, visualization (static plots), research, Executive summary
 - **Kathy Lin** (kl2615): exploratory data analysis, visualization (static and Shiny dashboard) 
-- **Louis Massera** (lm3287): exploratory data analysis, visualization (static plots and Shiny dashboard)
+- **Louis Massera** (lm3287): exploratory data analysis, visualization (static plots, wordclouds)
 - **Chong Zhao** (cz2470): data processing, exploratory data analysis, visualization (static plots), writing final report
 
 ### Motivation
